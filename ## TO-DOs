@@ -1,0 +1,6 @@
+andere Repo für Docker wenn 32bit für Pi Zero
+siehe https://docs.docker.com/engine/install/raspberry-pi-os/
+
+cat /proc/cpuinfo -> zum Erkennen Pi Model 
+
+user viewer fehlt sed zu installuser? UID 1000
